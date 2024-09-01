@@ -1,0 +1,14 @@
+{
+  "name": "@package-manager=npm/source",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {},
+  "private": true,
+  "dependencies": {
+    "@nx/next": "19.6.4"
+  },
+  "devDependencies": {
+    "@nx/workspace": "19.6.4",
+    "nx": "19.6.4"
+  }
+}
