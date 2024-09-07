@@ -1,0 +1,9 @@
+{
+  "name": "appone-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/appone-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["appone"],
+  "// targets": "to see all targets run: nx show project appone-e2e --web",
+  "targets": {}
+}
