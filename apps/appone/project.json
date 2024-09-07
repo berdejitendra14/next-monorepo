@@ -1,0 +1,9 @@
+{
+  "name": "appone",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/appone",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project appone --web",
+  "targets": {}
+}
